@@ -10,11 +10,11 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 
 ⚠️ TechStack/framework used
 
-OpenCV
-Caffe-based face detector
-Keras
-TensorFlow
-MobileNetV2
+OpenCV, 
+Caffe-based face detector, 
+Keras, 
+TensorFlow, 
+MobileNetV2, 
 
 
 ⭐ Features
