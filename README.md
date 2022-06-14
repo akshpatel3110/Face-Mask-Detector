@@ -14,7 +14,7 @@ OpenCV,
 Caffe-based face detector, 
 Keras, 
 TensorFlow, 
-MobileNetV2, 
+MobileNetV2.
 
 
 ⭐ Features
