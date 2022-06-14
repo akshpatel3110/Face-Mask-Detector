@@ -25,6 +25,7 @@ This system can therefore be used in real-time applications which require face-m
 
 📁 Dataset
 
+Use this link to access dataset: https://drive.google.com/drive/folders/19OaA3P7xO51vR_Tk5Gf6wOhpLIDjMt-K
 Dataset consists of 10,359 images belonging to two classes:
 
 with_mask: 6359 images
